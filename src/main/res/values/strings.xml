@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Todo List</string>
+    <string name="action_delete_all">Delete All</string>
+
+    <string name="SHARED_PREF_NAME">varsha.jawahar.todolist.sharedprefs</string>
+    <string name="TODO_STRINGS">todostrings</string>
+</resources>
